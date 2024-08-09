@@ -1,0 +1,45 @@
+{
+    "coord": {
+      "lon": 126.6614,
+      "lat": 37.6439
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "튼구름",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 33.01,
+      "feels_like": 40.01,
+      "temp_min": 29.94,
+      "temp_max": 33.01,
+      "pressure": 1003,
+      "humidity": 70,
+      "sea_level": 1003,
+      "grnd_level": 1001
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 4.63,
+      "deg": 290
+    },
+    "clouds": {
+      "all": 75
+    },
+    "dt": 1723189226,
+    "sys": {
+      "type": 1,
+      "id": 8105,
+      "country": "KR",
+      "sunrise": 1723149834,
+      "sunset": 1723199635
+    },
+    "timezone": 32400,
+    "id": 1842936,
+    "name": "Gimpo-si",
+    "cod": 200
+  }
